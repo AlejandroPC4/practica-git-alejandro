@@ -1,3 +1,4 @@
-"Nombre: [Tu Nombre]"  
-"Fecha: [Fecha de hoy]"  
-"Curso: Software Developer Starter Pack"  
+"Nombre: alejandro"  
+"Fecha: 10/3/2026"  
+"Curso: Software Developer Starter Pack"
+"Editado desde GitHub"
